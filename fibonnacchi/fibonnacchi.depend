@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699972725 source:c:\users\hp\onedrive\desktop\dsa lab\fibonnacchi\main.c
+	<stdio.h>
+	<stdlib.h>
+
